@@ -15,6 +15,9 @@ My Personal Profile
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/malek-ahmed" target="_blank"><img src="https://img.shields.io/badge/-Malek%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack & Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion)&nbsp;
+![github](https://img.shields.io/badge/-github-05122A?style=flat&logo=github)&nbsp;
+
